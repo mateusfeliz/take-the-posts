@@ -1,4 +1,4 @@
-# Take the posts
+# Take the posts - ReactJS + Wordpress
 Aplicação feita em ReactJS para utilizar da API do Wordpress
 
 
